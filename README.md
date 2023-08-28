@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- Jumped from embedded to web-dev world, started with FastAPI and learning the fundamentals of vanilla JS, HTML and CSS.
+- Neovim beginner
+
