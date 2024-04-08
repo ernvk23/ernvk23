@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # A bit about me...
+- Automation engineer (Computer + Electronics + Control engineering, yes, wild, I no longer know what I am, just love problem solving and coding)
 - Jumped from embedded to web-dev, got tired of assembly
 - Got in love with FastAPI (name sounds cute)
 - Trying to leave behind VSCode and fully jump into neovim, not easy work!
