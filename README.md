@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- Jumped from embedded to web-dev world, started with FastAPI and learning the fundamentals of vanilla JS, HTML and CSS.
-- Neovim beginner
+# A bit about me...
+- Jumped from embedded to web-dev, got tired of assembly
+- Got in love with FastAPI (name sounds cute)
+- Trying to leave behind VSCode and fully jump into neovim, not easy work!
+- No Arch user but I love OSS and Fedora
 
+## Goals:
+- Leave the 65 wpm mark behind and get to 80
+- Building an interpreter and a compiler with go
+- Improve rusty chess
+- Keep learning/improving
