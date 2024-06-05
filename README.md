@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 - No Arch user but I love OSS and Fedora
 
 ## Goals:
-- Leave the 70 wpm mark behind and get to a steady 90-100
+- Leave the 70 wpm mark behind and get to a steady 90
 - Switch to go as main language and get more familiarized with DevOps
-- Keep and eye on ML development and maybe pursue a Master's (really don't see the purpose right now)
+- Keep an eye on ML development and maybe pursue a Master's in it
 - Improve rusty chess
 - Keep learning/improving
